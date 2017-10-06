@@ -1,2 +1,2 @@
 # pro365
-A\ completely opensouced reactnative application 
+A completely opensouced reactnative application 
